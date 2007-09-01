@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2006
+
+Pimp your plugins with the latest in widget technology ! This plugin implements a simple progressbar for the statusline. Never again you will have to wonder, how you should tell your user that something is happening.
+
+This may be the foundation of big vim widgets library :O)
